@@ -1,3 +1,8 @@
-# Tab-Title-Chrome-Extension
-Chrome extension for change tab title.
-Simple chrome extension I made for myself.
+# About
+ Very simple chrome extension for change tab titles that I made for myself.
+# Shortcuts
+- windows: "Ctrl+Shift+Y"
+- mac: "Command+Shift+Y"
+- chromeos: "Ctrl+Shift+U"
+- linux: "Ctrl+Shift+J"
+
