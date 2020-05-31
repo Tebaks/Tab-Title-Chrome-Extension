@@ -1,3 +1,4 @@
+## Tab Title Changer Chrome Extension
 # About
  Very simple chrome extension for change tab titles that I made for myself.
 # Shortcuts
